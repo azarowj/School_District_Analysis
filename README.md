@@ -15,8 +15,13 @@ The only major differences seen after removing the math and reading scores for 9
 ## Images
 Attached are images of the various outputs referenced above
 District Summary before changes: (https://github.com/azarowj/School_District_Analysis/blob/main/Resources/Resources/DistrictSummaryOriginal.png)
+
 District Summary after changes: (https://github.com/azarowj/School_District_Analysis/blob/main/Resources/Resources/DistrictSummaryNew.png)
+
 Per School Summary before changes: (https://github.com/azarowj/School_District_Analysis/blob/main/Resources/Resources/PerSchoolSummaryOriginal.png)
+
 Per School Summary after changes: (https://github.com/azarowj/School_District_Analysis/blob/main/Resources/Resources/PerSchoolSummaryNew.png)
+
 Top Schools before changes: (https://github.com/azarowj/School_District_Analysis/blob/main/Resources/Resources/Top%20Schools%20Original.png)
+
 Top Schools after changes: (https://github.com/azarowj/School_District_Analysis/blob/main/Resources/Resources/TopSchoolsNew.png)
